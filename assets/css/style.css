@@ -1,0 +1,62 @@
+body{
+    background-color: #1E1E1E ;
+    color: blanchedalmond;
+}
+
+b, strong{
+        font-family: Arial;
+
+}
+p{
+   
+   float:right;
+
+}
+
+img{
+    display: inline;
+    max-height: 30px;
+    min-height: 30px;
+    margin-right: 1px;
+    max-width: 30px;
+    min-width: 30px  ;
+    vertical-align: middle;
+}
+
+
+li{
+    list-style: none;
+    color: white;
+    text-align: justify;
+}
+
+.table {
+    color: honeydew;
+    white-space: nowrap
+}
+
+.table td{
+    width: 1em; 
+}
+.table td {
+    padding: 0;
+}
+.table th{
+    padding: 2px;
+
+}
+.smallcountry{
+        display: inline;
+        max-height: 15px;
+        min-height: 15px;
+        margin-right: 2px;
+        max-width: 15px;
+        min-width: 15px;
+        vertical-align: middle;
+  
+}
+
+.card-header{
+    color: black;
+}
+
